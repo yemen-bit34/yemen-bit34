@@ -23,13 +23,6 @@
 • never “there” — just moving  
 
 ---
-
-### 🚧 projects  
-🍋 [little-lemon-clone](https://github.com/yemen-bit34/little-lemon-clone)  
-🎨 [portfolio-experiments](https://github.com/yemen-bit34/portfolio-experiments)  
-🧪 [capstone-testing](https://github.com/yemen-bit34/capstone-testing)  
-🔐 [infosec-awareness](https://github.com/yemen-bit34/infosec-awareness)
-
 ---
 
 ### 📊 stats or whatever  
