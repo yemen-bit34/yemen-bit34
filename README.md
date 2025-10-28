@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧩  
+# Al$haib  
 **still learning. still struggling. still showing up.**
 
 ---
