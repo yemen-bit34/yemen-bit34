@@ -4,6 +4,15 @@
 **still learning. still struggling. still showing up.**
 
 ---
+---
+
+### 📊 stats or whatever  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yemen-bit34&show_icons=true&theme=tokyonight&hide_border=true)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yemen-bit34&layout=compact&theme=tokyonight&hide_border=true)  
+![Streak](https://streak-stats.demolab.com?user=yemen-bit34&theme=tokyonight&hide_border=true)
+
+---
 
 ### ⚙️ what i mess with  
 
@@ -23,15 +32,7 @@
 • never “there” — just moving  
 
 ---
----
 
-### 📊 stats or whatever  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yemen-bit34&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yemen-bit34&layout=compact&theme=tokyonight&hide_border=true)  
-![Streak](https://streak-stats.demolab.com?user=yemen-bit34&theme=tokyonight&hide_border=true)
-
----
 
 ### 🖤  
 > no plan b.  
