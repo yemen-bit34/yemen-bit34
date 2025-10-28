@@ -6,10 +6,12 @@
 ---
 
 ### ⚙️ what i mess with  
-`react` · `javascript` · `html` · `css`  
-`node.js` · `vite` · `next.js`  
-`vscode` · `cursor`  
 
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,javascript,html,css,nodejs,vite,nextjs,vscode,figma,framer&theme=dark" height="60"/>
+  <br/>
+  <sub>+ cursor</sub>
+</p>
 
 ---
 
@@ -21,6 +23,12 @@
 • never “there” — just moving  
 
 ---
+
+### 🚧 projects  
+🍋 [little-lemon-clone](https://github.com/yemen-bit34/little-lemon-clone)  
+🎨 [portfolio-experiments](https://github.com/yemen-bit34/portfolio-experiments)  
+🧪 [capstone-testing](https://github.com/yemen-bit34/capstone-testing)  
+🔐 [infosec-awareness](https://github.com/yemen-bit34/infosec-awareness)
 
 ---
 
