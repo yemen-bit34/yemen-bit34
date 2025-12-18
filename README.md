@@ -17,7 +17,7 @@
 ### ⚙️ what i mess with  
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,javascript,html,css,nodejs,vite,nextjs,vscode,figma,framer&theme=dark" height="60"/>
+  <img src="https://skillicons.dev/icons?i=react,javascript,html,css,nodejs,vite,nextjs,python,vscode,postgresql,kali&theme=dark" height="60"/>
   <br/>
   <sub>+ cursor</sub>
 </p>
